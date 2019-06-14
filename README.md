@@ -1,2 +1,3 @@
-# Machine-Learning-
-DSE-220
+# Machine-Learning
+UCSD DSE220 
+
